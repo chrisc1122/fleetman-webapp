@@ -7,7 +7,7 @@
      keypair_name: AWS-MicroServices2
      instance_type: t2.nano
      image_name: ami-0080e4c5bc078760e
-	 live_ip_address: 52.86.156.13
+     live_ip_address: 52.86.156.13
   
   tasks:
     - name: Setup variables for later
